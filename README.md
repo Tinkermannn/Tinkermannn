@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wilman  
+---
 
-<!--
-**Tinkermannn/Tinkermannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning about app development and **cybersecurity**.  
+Right now, I'm working on developing our geofencing app, feel free to check it out.
+<p align="left">
+  <!-- picoCTF -->
+  <a href="https://play.picoctf.org/users/tinkermannn" target="_blank">
+    <img src="https://img.shields.io/badge/picoCTF-EA2137?style=flat-rounded&logo=flag&logoColor=white" />
+  </a>
 
-Here are some ideas to get you started:
+  <!-- Medium -->
+  <a href="https://medium.com/@wilmans" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-rounded&logo=medium&logoColor=white" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/wilman-saragih/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white" />
+  </a>
+</p>
